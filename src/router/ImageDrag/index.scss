@@ -1,0 +1,16 @@
+.handle-image {
+  display: flex;
+  justify-content: center;
+
+  #girl {
+    height: 200px;
+  }
+
+  .image-box {
+    display: inline-block;
+    margin-left: 50px;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+  }
+}
